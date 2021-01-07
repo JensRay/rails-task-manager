@@ -1,0 +1,2 @@
+      invoke  active_record
+    conflict    db/migrate/20210107151055_change_column.rb
